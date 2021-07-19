@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://darshitkumarsinghal.github.io/csb-twdyd/static/css/main.ff423de3.chunk.css",
-    "main.js": "https://darshitkumarsinghal.github.io/csb-twdyd/static/js/main.28332142.chunk.js",
-    "main.js.map": "https://darshitkumarsinghal.github.io/csb-twdyd/static/js/main.28332142.chunk.js.map",
+    "main.js": "https://darshitkumarsinghal.github.io/csb-twdyd/static/js/main.8b63bc1e.chunk.js",
+    "main.js.map": "https://darshitkumarsinghal.github.io/csb-twdyd/static/js/main.8b63bc1e.chunk.js.map",
     "runtime-main.js": "https://darshitkumarsinghal.github.io/csb-twdyd/static/js/runtime-main.8e5f9996.js",
     "runtime-main.js.map": "https://darshitkumarsinghal.github.io/csb-twdyd/static/js/runtime-main.8e5f9996.js.map",
     "static/css/2.da98c186.chunk.css": "https://darshitkumarsinghal.github.io/csb-twdyd/static/css/2.da98c186.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.da98c186.chunk.css",
     "static/js/2.e0cb9b8c.chunk.js",
     "static/css/main.ff423de3.chunk.css",
-    "static/js/main.28332142.chunk.js"
+    "static/js/main.8b63bc1e.chunk.js"
   ]
 }
